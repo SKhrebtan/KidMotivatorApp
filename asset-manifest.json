@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/KidMotivatorApp/static/css/main.7acaea2f.css",
-    "main.js": "/KidMotivatorApp/static/js/main.07d3183d.js",
+    "main.css": "/KidMotivatorApp/static/css/main.b5320759.css",
+    "main.js": "/KidMotivatorApp/static/js/main.9523efc6.js",
     "index.html": "/KidMotivatorApp/index.html",
-    "main.7acaea2f.css.map": "/KidMotivatorApp/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/KidMotivatorApp/static/js/main.07d3183d.js.map"
+    "main.b5320759.css.map": "/KidMotivatorApp/static/css/main.b5320759.css.map",
+    "main.9523efc6.js.map": "/KidMotivatorApp/static/js/main.9523efc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.b5320759.css",
+    "static/js/main.9523efc6.js"
   ]
 }
